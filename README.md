@@ -3,8 +3,10 @@ programación web, me llevo un total de 1 mes, trata acerca de una feterría,
 creando un crud para registrar,eliminar o actualizar, productos, empleados y categorías.
 Usé PHP, Mysql como gestor de datos, CSS, HTML 5 y lo complemente con Javascript.
 
+
 Vista login
 <img width="834" height="657" alt="image" src="https://github.com/user-attachments/assets/dddd467c-4ca3-4cd4-a58a-64edf92122ee" />
+
 
 Vista registro usuario
 <img width="632" height="608" alt="image" src="https://github.com/user-attachments/assets/743ac033-86a1-4f71-9df9-8f59372b868c" />
