@@ -2,6 +2,7 @@ Este proyecto fue desarrollado en el año 2023 de un curso de universidad llamad
 programación web, me llevo un total de 1 mes, trata acerca de una feterría,
 creando un crud para registrar,eliminar o actualizar, productos, empleados y categorías.
 Usé PHP, Mysql como gestor de datos, CSS, HTML 5 y lo complemente con Javascript.
+
 Vista login
 
 
